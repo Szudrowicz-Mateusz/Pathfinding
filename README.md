@@ -25,3 +25,5 @@ To run program by cmake in terminal:
     5) ./p
 
 If someone doesn't like name of the project you can easily change it in 3 line in CMakeLists.txt
+
+Project created by **https://github.com/Szudrowicz-Mateusz**
