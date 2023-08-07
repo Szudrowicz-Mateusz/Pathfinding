@@ -17,6 +17,7 @@ In **main.cpp** you have showned keys to trigger appropriate actions. Here I wil
 Don't be confused becasue during algorithm you can't take any actions. If algorithm ends up you can easily press "R" and check other combinations.
 
 To run program by cmake in terminal:
+
     1) mkdir build
     2) cd build
     3) cmake ..
